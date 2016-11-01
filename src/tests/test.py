@@ -5,7 +5,7 @@ from nose.tools import eq_
 import cchardet
 
 encodings_map = {
-    r'tests/testdata/bg/ISO-8859-5/wikitop_bg_ISO-8859-5.txt': 'ISO-8859-5',
+    r'tests/testdata/bg/ISO-8859-5/wikitop_bg_ISO-8859-5.t1xt': 'ISO-8859-5',
     r'tests/testdata/bg/UTF-8/wikitop_bg_UTF-8.txt': 'UTF-8',
     r'tests/testdata/bg/WINDOWS-1251/wikitop_bg_WINDOWS-1251.txt': 'WINDOWS-1251',
     r'tests/testdata/cz/ISO-8859-2/wikitop_cz_ISO-8859-2.txt': 'ISO-8859-2',
